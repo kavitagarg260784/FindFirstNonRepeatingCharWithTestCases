@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindFirstNonRepeatingChar",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "Utility\Utility.csproj", "{9C5FC129-141A-4C9C-BAAE-2AEB73F932AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonRepeatChar", "NonRepeatChar\NonRepeatChar.csproj", "{94C6478D-7AEF-4581-A713-EA4A7DFBE10A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "NonRepeatChar\UnitTests.csproj", "{94C6478D-7AEF-4581-A713-EA4A7DFBE10A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
